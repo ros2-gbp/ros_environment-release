@@ -1,3 +1,26 @@
+## ros_environment (eloquent) - 2.4.0-1
+
+The packages in the `ros_environment` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release -n -r eloquent ros_environment --override-release-repository-push-url git@github.com:ros2-gbp/ros_environment-release` on `Tue, 17 Sep 2019 18:04:32 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (dashing) - 2.3.0-1
 
 The packages in the `ros_environment` repository were released into the `dashing` distro by running `/home/steven/osrf/bloom/myscripts/py3env/bin/bloom-release -n -r dashing ros_environment --override-release-repository-push-url git@github.com:ros2-gbp/ros_environment-release` on `Thu, 11 Apr 2019 20:53:18 -0000`
