@@ -1,3 +1,26 @@
+## ros_environment (eloquent) - 2.4.1-1
+
+The packages in the `ros_environment` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --ros-distro eloquent ros_environment` on `Wed, 23 Oct 2019 22:43:47 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `2.4.0-1`
+- old version: `2.4.0-1`
+- new version: `2.4.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.16.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (eloquent) - 2.4.0-1
 
 The packages in the `ros_environment` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release -n -r eloquent ros_environment --override-release-repository-push-url git@github.com:ros2-gbp/ros_environment-release` on `Tue, 17 Sep 2019 18:04:32 -0000`
