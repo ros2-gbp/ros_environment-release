@@ -1,3 +1,26 @@
+## ros_environment (galactic) - 3.1.0-1
+
+The packages in the `ros_environment` repository were released into the `galactic` distro by running `/home/steven/osrf/bloom/.direnv/python-3.9.3/bin/bloom-release -r galactic ros_environment -e --override-release-repository-push-url git@github.com:ros2-gbp/ros_environment-release` on `Fri, 23 Apr 2021 20:56:32 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `3.0.0-2`
+- old version: `3.0.0-2`
+- new version: `3.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (rolling) - 3.0.0-1
 
 The packages in the `ros_environment` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling ros_environment --override-release-repository-push-url git@github.com:ros2-gbp/ros_environment-release` on `Tue, 23 Jun 2020 21:44:46 -0000`
