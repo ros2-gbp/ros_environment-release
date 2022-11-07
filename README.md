@@ -1,3 +1,26 @@
+## ros_environment (humble) - 3.2.2-1
+
+The packages in the `ros_environment` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release -r humble -y ros_environment` on `Mon, 07 Nov 2022 16:33:56 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `3.2.1-1`
+- old version: `3.2.1-1`
+- new version: `3.2.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (rolling) - 4.0.0-1
 
 The packages in the `ros_environment` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling ros_environment` on `Tue, 13 Sep 2022 21:42:38 -0000`
