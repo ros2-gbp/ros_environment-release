@@ -1,3 +1,26 @@
+## ros_environment (galactic) - 3.1.1-1
+
+The packages in the `ros_environment` repository were released into the `galactic` distro by running `/home/cottsay/infra_ws/install/bin/bloom-release ros_environment -r galactic` on `Fri, 02 Dec 2022 21:00:00 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `3.1.0-1`
+- old version: `3.1.0-1`
+- new version: `3.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (humble) - 3.2.2-1
 
 The packages in the `ros_environment` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release -r humble -y ros_environment` on `Mon, 07 Nov 2022 16:33:56 -0000`
