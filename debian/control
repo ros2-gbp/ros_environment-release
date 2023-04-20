@@ -1,0 +1,12 @@
+Source: ros-iron-ros-environment
+Section: misc
+Priority: optional
+Maintainer: Steven! Ragnarök <steven@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake-core, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-ros-environment
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-ros-workspace
+Description: The package provides the environment variables `ROS_VERSION` and `ROS_DISTRO`.
