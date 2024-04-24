@@ -1,3 +1,26 @@
+## ros_environment (jazzy) - 4.2.1-1
+
+The packages in the `ros_environment` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy ros_environment` on `Wed, 24 Apr 2024 17:12:27 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `4.2.0-3`
+- old version: `4.2.0-3`
+- new version: `4.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (iron) - 4.1.1-1
 
 The packages in the `ros_environment` repository were released into the `iron` distro by running `/usr/bin/bloom-release --track iron --rosdistro iron ros_environment` on `Fri, 28 Apr 2023 21:16:00 -0000`
