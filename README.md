@@ -1,3 +1,26 @@
+## ros_environment (rolling) - 4.3.0-1
+
+The packages in the `ros_environment` repository were released into the `rolling` distro by running `/usr/bin/bloom-release ros_environment --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 14:42:59 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `4.2.0-2`
+- old version: `4.2.0-2`
+- new version: `4.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (jazzy) - 4.2.1-1
 
 The packages in the `ros_environment` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy ros_environment` on `Wed, 24 Apr 2024 17:12:27 -0000`
