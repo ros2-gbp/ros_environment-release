@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.15)
 project(ros_environment NONE)
 find_package(ament_cmake_core REQUIRED)
 
@@ -10,7 +10,7 @@ set(ROS_PYTHON_VERSION "3")
 if(DEFINED ENV{ROS_DISTRO_OVERRIDE})
   set(ROS_DISTRO $ENV{ROS_DISTRO_OVERRIDE})
 else()
-  set(ROS_DISTRO "kilted")
+  set(ROS_DISTRO "rolling")
 endif()
 
 set(

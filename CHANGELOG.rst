@@ -2,11 +2,15 @@
 Changelog for package ros_environment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-4.3.1 (2025-04-24)
+4.4.1 (2025-07-01)
 ------------------
-* Update ROS_DISTRO for Kilted Kaiju (`#41 <https://github.com/ros/ros_environment/issues/41>`_)
+* fix cmake deprecation (`#42 <https://github.com/ros/ros_environment/issues/42>`_)
+* Contributors: mosfet80
+
+4.4.0 (2025-04-24)
+------------------
 * Remove CODEOWNERS. (`#40 <https://github.com/ros/ros_environment/issues/40>`_)
-* Contributors: Chris Lalancette, Scott K Logan
+* Contributors: Chris Lalancette
 
 4.3.0 (2024-04-26)
 ------------------
