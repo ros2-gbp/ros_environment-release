@@ -1,3 +1,26 @@
+## ros_environment (rolling) - 4.4.1-1
+
+The packages in the `ros_environment` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling ros_environment` on `Tue, 01 Jul 2025 16:27:40 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `4.4.0-1`
+- old version: `4.4.0-1`
+- new version: `4.4.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (kilted) - 4.3.1-1
 
 The packages in the `ros_environment` repository were released into the `kilted` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release ros_environment -r kilted` on `Thu, 24 Apr 2025 15:17:30 -0000`
