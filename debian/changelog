@@ -1,0 +1,21 @@
+ros-rolling-ros-environment (4.4.1-1noble) noble; urgency=high
+
+  * fix cmake deprecation (#42 <https://github.com/ros/ros_environment/issues/42>)
+  * Contributors: mosfet80
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Tue, 01 Jul 2025 00:00:00 -0000
+
+ros-rolling-ros-environment (4.4.0-1noble) noble; urgency=high
+
+  * Remove CODEOWNERS. (#40 <https://github.com/ros/ros_environment/issues/40>)
+  * Contributors: Chris Lalancette
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Thu, 24 Apr 2025 00:00:00 -0000
+
+ros-rolling-ros-environment (4.3.0-1noble) noble; urgency=high
+
+
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Fri, 26 Apr 2024 00:00:00 -0000
+
+
