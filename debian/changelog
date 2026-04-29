@@ -1,0 +1,21 @@
+ros-lyrical-ros-environment (4.4.1-3trixie) trixie; urgency=high
+
+  * fix cmake deprecation (#42 <https://github.com/ros/ros_environment/issues/42>)
+  * Contributors: mosfet80
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Tue, 01 Jul 2025 05:00:00 -0000
+
+ros-lyrical-ros-environment (4.4.0-3trixie) trixie; urgency=high
+
+  * Remove CODEOWNERS. (#40 <https://github.com/ros/ros_environment/issues/40>)
+  * Contributors: Chris Lalancette
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Thu, 24 Apr 2025 05:00:00 -0000
+
+ros-lyrical-ros-environment (4.3.0-3trixie) trixie; urgency=high
+
+
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Fri, 26 Apr 2024 05:00:00 -0000
+
+
