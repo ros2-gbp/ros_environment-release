@@ -1,3 +1,26 @@
+## ros_environment (lyrical) - 4.5.1-1
+
+The packages in the `ros_environment` repository were released into the `lyrical` distro by running `/usr/local/google/home/sloretz/projects/lyrical/env3/bin/bloom-release ros_environment -r lyrical -t lyrical` on `Thu, 30 Apr 2026 03:19:40 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros2-gbp/ros_environment-release.git
+- rosdistro version: `4.4.1-3`
+- old version: `4.4.1-3`
+- new version: `4.5.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.2`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (rolling) - 5.0.0-1
 
 The packages in the `ros_environment` repository were released into the `rolling` distro by running `/tmp/migrationtoolsenv/bin/bloom-release ros_environment -t rolling -r rolling` on `Wed, 29 Apr 2026 21:46:19 -0000`
