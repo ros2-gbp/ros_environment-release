@@ -1,0 +1,34 @@
+ros-lyrical-ros-environment (4.5.1-1resolute) resolute; urgency=high
+
+
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Thu, 30 Apr 2026 00:00:00 -0000
+
+ros-lyrical-ros-environment (4.5.0-1resolute) resolute; urgency=high
+
+  * Change default ROS_DISTRO from 'rolling' to 'lyrical'
+  * Contributors: Shane Loretz
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Wed, 29 Apr 2026 00:00:00 -0000
+
+ros-lyrical-ros-environment (4.4.1-1resolute) resolute; urgency=high
+
+  * fix cmake deprecation (#42 <https://github.com/ros/ros_environment/issues/42>)
+  * Contributors: mosfet80
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Tue, 01 Jul 2025 00:00:00 -0000
+
+ros-lyrical-ros-environment (4.4.0-1resolute) resolute; urgency=high
+
+  * Remove CODEOWNERS. (#40 <https://github.com/ros/ros_environment/issues/40>)
+  * Contributors: Chris Lalancette
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Thu, 24 Apr 2025 00:00:00 -0000
+
+ros-lyrical-ros-environment (4.3.0-1resolute) resolute; urgency=high
+
+
+
+ -- Steven! Ragnarök <steven@openrobotics.org>  Fri, 26 Apr 2024 00:00:00 -0000
+
+
